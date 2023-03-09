@@ -1,0 +1,5 @@
+- determine how branching will work
+  - branches appear to be pro feature
+  - need to be able to branch in order to set push restrictions on main, enable PR based flow, etc
+  - does this mean all users will need a pro license or multiple seats on one license?
+
