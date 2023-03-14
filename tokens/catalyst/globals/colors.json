@@ -1,0 +1,34 @@
+{
+  "color-gray-200": {
+    "value": "#E6E9EC",
+    "type": "color"
+  },
+  "color-brand-primary": {
+    "value": "#214948",
+    "type": "color"
+  },
+  "color-black": {
+    "value": "#000",
+    "type": "color"
+  },
+  "color-state-success": {
+    "value": "#00854B",
+    "type": "color"
+  },
+  "color-state-warning": {
+    "value": "#FFC107",
+    "type": "color"
+  },
+  "color-state-error": {
+    "value": "#D10026",
+    "type": "color"
+  },
+  "color-state-info": {
+    "value": "#0068BD",
+    "type": "color"
+  },
+  "color-white": {
+    "value": "#fff",
+    "type": "color"
+  }
+}

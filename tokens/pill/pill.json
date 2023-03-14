@@ -1,0 +1,80 @@
+{
+  "pill-neutral-background-color": {
+    "value": "{color-gray-200}",
+    "type": "color"
+  },
+  "pill-primary-background-color": {
+    "value": "{color-brand-primary}",
+    "type": "color"
+  },
+  "pill-inverse-background-color": {
+    "value": "{color-black}",
+    "type": "color"
+  },
+  "pill-success-background-color": {
+    "value": "{color-state-success}",
+    "type": "color"
+  },
+  "pill-warning-background-color": {
+    "value": "{color-state-warning}",
+    "type": "color"
+  },
+  "pill-error-background-color": {
+    "value": "{color-state-error}",
+    "type": "color"
+  },
+  "pill-info-background-color": {
+    "value": "{color-state-info}",
+    "type": "color"
+  },
+  "pill-neutral-padding": {
+    "value": {
+      "horizontalPadding": "{pill-base-paddingHorizontal}",
+      "verticalPadding": "{pill-base-paddingVertical}"
+    },
+    "type": "composition"
+  },
+  "pill-primary-padding": {
+    "value": {
+      "verticalPadding": "{pill-base-paddingVertical}",
+      "horizontalPadding": "{pill-base-paddingHorizontal}"
+    },
+    "type": "composition"
+  },
+  "pill-inverse-padding": {
+    "value": {
+      "verticalPadding": "{pill-base-paddingVertical}",
+      "horizontalPadding": "{pill-base-paddingHorizontal}"
+    },
+    "type": "composition"
+  },
+  "pill-success": {
+    "value": {
+      "verticalPadding": "{pill-base-paddingVertical}",
+      "horizontalPadding": "{pill-base-paddingHorizontal}",
+      "borderRadius": "{pill-base-borderRadius}"
+    },
+    "type": "composition"
+  },
+  "pill-warning-padding": {
+    "value": {
+      "verticalPadding": "{pill-base-paddingVertical}",
+      "horizontalPadding": "{pill-base-paddingHorizontal}"
+    },
+    "type": "composition"
+  },
+  "pill-error-padding": {
+    "value": {
+      "verticalPadding": "{pill-base-paddingVertical}",
+      "horizontalPadding": "{pill-base-paddingHorizontal}"
+    },
+    "type": "composition"
+  },
+  "pill-info-padding": {
+    "value": {
+      "verticalPadding": "{pill-base-paddingVertical}",
+      "horizontalPadding": "{pill-base-paddingHorizontal}"
+    },
+    "type": "composition"
+  }
+}
