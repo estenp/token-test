@@ -1,0 +1,18 @@
+{
+  "edgeSize-double": {
+    "value": "2px",
+    "type": "spacing"
+  },
+  "edgeSize-quadruple": {
+    "value": "4px",
+    "type": "spacing"
+  },
+  "edgeSize-1x": {
+    "value": "8px",
+    "type": "spacing"
+  },
+  "test": {
+    "value": "25px",
+    "type": "spacing"
+  }
+}

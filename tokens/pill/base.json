@@ -1,0 +1,14 @@
+{
+  "pill-base-paddingVertical": {
+    "value": "{edgeSize-quadruple}",
+    "type": "spacing"
+  },
+  "pill-base-paddingHorizontal": {
+    "value": "{edgeSize-1x}",
+    "type": "spacing"
+  },
+  "pill-base-borderRadius": {
+    "value": "{edgeSize-double}",
+    "type": "borderRadius"
+  }
+}

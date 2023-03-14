@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "catalyst/globals/spacing",
+    "catalyst/globals/colors",
+    "pill/base",
+    "pill/pill"
+  ]
+}
